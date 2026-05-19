@@ -1,4 +1,4 @@
-![Uploading Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19.25.16.png…]()
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19 25 16" src="https://github.com/user-attachments/assets/508ebe01-e802-4c36-9d2d-37066a215b6a" />
 # 📱 PackWise AI - Nasıl Kullanılır? (User Guide)
 
 PackWise AI'ı kullanarak e-ticaret ürünlerinizin risk analizini yapmak ve saniyeler içinde akıllı ilanlar oluşturmak için aşağıdaki adımları takip edebilirsiniz.
@@ -30,8 +30,6 @@ Aynı ekranda yapay zeka, ürün görselinden yola çıkarak Trendyol, Hepsibura
 ---
 ### 🖼️ Uygulama İçi Ekran Görüntüleri
 
-| Ana Ekran & Görsel Yükleme | Akıllı Risk Raporu | SEO İlan Üretimi & Geçmiş |
-| <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px)" src="https://github.com/user-attachments/assets/ec2b6d28-91c4-4fbd-8e1a-8395c43e32bc" />
-| <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px) (3)" src="https://github.com/user-attachments/assets/019f8d8d-4247-4899-ade3-249e5141d287" />
- | <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px) (5)" src="https://github.com/user-attachments/assets/0b28c901-80af-4e85-a827-6784acacd802" />
-|
+![Uploading Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19.25.16.png…]()
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19 29 44" src="https://github.com/user-attachments/assets/287e8098-0039-4464-96d2-482015a44d1d" />
+
