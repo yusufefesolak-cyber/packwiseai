@@ -20,5 +20,7 @@ BTK Akademi, Google ve Girişimcilik Vakfı ortaklığında düzenlenen **Hackat
 ## ⚠️ Jüri Değerlendirmesi İçin API Key Notu
 Projeyi derleyip test edebilmeniz için `GeminiService.swift` ve `Info.plist` dosyalarındaki API Key demo amaçlı olarak proje içinde bırakılmış ve kota ile sınırlandırılmıştır. İhtiyaç halinde kendi Gemini API Key'inizi ilgili `apiKey` değişkenine tanımlayarak kullanabilirsiniz.
 
+Canlıya Alınma Durumu: PackWise AI, MVP aşamasını başarıyla geçerek Apple App Store standartlarında production ortamına hazır hale getirilmiştir. 17 Mayıs itibarıyla mağazaya iletilmiş olup, şu anda App Store'da "Waiting for Review" (İnceleme Bekliyor) aşamasındadır. Uygulamanın tüm canlı akışı demo videosunda detaylıca sunulmuştur. Uygulama canlıya alındıktan sonra canlı ortam detayları ve mağaza indirme linki projenin GitHub README kısmına eklenecektir.
+
 ---
 *Geliştirici:* Yusuf Efe Solak
