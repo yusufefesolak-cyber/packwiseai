@@ -9,7 +9,7 @@ final class GeminiService {
     // TODO: Buraya Google AI Studio üzerinden aldığın Gemini API key gelecek.
     // Hackathon demosu için geçici olarak burada tutabiliriz.
     // Finalde güvenlik için backend/proxy üzerinden çağırmak daha doğru olur.
-    private let apiKey = "AIzaSyDo2PeU4EMfYf_HwAMAWnsrKKq4_jvY840"
+    private let apiKey = "AIzaSyB8HIJnBvbUgAGnvgaj7hXwBP2kdlbnpiM"
     private let primaryModel = "gemini-2.5-flash"
     private let fallbackModel = "gemini-2.5-flash-lite"
     private let secondFallbackModel = "gemini-2.0-flash"
