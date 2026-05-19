@@ -28,20 +28,6 @@ Aynı ekranda yapay zeka, ürün görselinden yola çıkarak Trendyol, Hepsibura
 
 ### 🖼️ Uygulama İçi Ekran Görüntüleri
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; gap: 20px;">
-
-<figure style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/13731a30-a500-4409f-b6dc-bcbee8c40dca" width="280" alt="Ana Ekran ve Görsel Yükleme">
-  <figcaption><br><b>1. Ana Ekran & Görsel Yükleme</b></figcaption>
-</figure>
-
-<figure style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/c35faa84-117d-4f66-99d6-6792af222857" width="280" alt="Akıllı Risk Raporu">
-  <figcaption><br><b>2. Akıllı Risk Raporu</b></figcaption>
-</figure>
-
-<figure style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/c14c47e0-254f-4bd9-a3a1-84c6191bef67" width="280" alt="SEO İlan Üretimi ve Geçmiş">
-  <figcaption><br><b>3. SEO İlan Üretimi & Geçmiş</b></figcaption>
-</figure>
-</div>
+| Ana Ekran & Görsel Yükleme | Akıllı Risk Raporu | SEO İlan Üretimi & Geçmiş |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/74546977-6564-4a29-8a10-7b7340b53151" width="280"> | <img src="https://github.com/user-attachments/assets/3089bd3d-e5df-4e41-a7ab-bfac0a055e92" width="280"> | <img src="https://github.com/user-attachments/assets/c2368d11-5f1c-4e28-a1c7-7a97e91dd233" width="280"> |
