@@ -1,3 +1,4 @@
+![Uploading Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19.25.16.png…]()
 # 📱 PackWise AI - Nasıl Kullanılır? (User Guide)
 
 PackWise AI'ı kullanarak e-ticaret ürünlerinizin risk analizini yapmak ve saniyeler içinde akıllı ilanlar oluşturmak için aşağıdaki adımları takip edebilirsiniz.
@@ -31,4 +32,5 @@ Aynı ekranda yapay zeka, ürün görselinden yola çıkarak Trendyol, Hepsibura
 
 | Ana Ekran & Görsel Yükleme | Akıllı Risk Raporu | SEO İlan Üretimi & Geçmiş |
 |---|---|---|
-| *Buraya 1. Fotoğrafı Sürükle Bırak* | *Buraya 2. Fotoğrafı Sürükle Bırak* | *Buraya 3. Fotoğrafı Sürükle Bırak* |
+| *Buraya 1. Fotoğrafı Sürükle Bırak* <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px)" src="https://github.com/user-attachments/assets/ec2b6d28-91c4-4fbd-8e1a-8395c43e32bc" />
+| *Buraya 2. Fotoğrafı Sürükle Bırak* | *Buraya 3. Fotoğrafı Sürükle Bırak* |
