@@ -31,6 +31,7 @@ Aynı ekranda yapay zeka, ürün görselinden yola çıkarak Trendyol, Hepsibura
 ### 🖼️ Uygulama İçi Ekran Görüntüleri
 
 | Ana Ekran & Görsel Yükleme | Akıllı Risk Raporu | SEO İlan Üretimi & Geçmiş |
-|---|---|---|
-| *Buraya 1. Fotoğrafı Sürükle Bırak* <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px)" src="https://github.com/user-attachments/assets/ec2b6d28-91c4-4fbd-8e1a-8395c43e32bc" />
-| *Buraya 2. Fotoğrafı Sürükle Bırak* | *Buraya 3. Fotoğrafı Sürükle Bırak* |
+| <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px)" src="https://github.com/user-attachments/assets/ec2b6d28-91c4-4fbd-8e1a-8395c43e32bc" />
+| <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px) (3)" src="https://github.com/user-attachments/assets/019f8d8d-4247-4899-ade3-249e5141d287" />
+ | <img width="1284" height="2778" alt="Beige Aesthetic Autumn Mood Phone Mockup Instagram Post (1284 x 2778 px) (1284 x 2778 px) (5)" src="https://github.com/user-attachments/assets/0b28c901-80af-4e85-a827-6784acacd802" />
+|
