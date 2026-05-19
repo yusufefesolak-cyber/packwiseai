@@ -26,9 +26,6 @@ Aynı ekranda yapay zeka, ürün görselinden yola çıkarak Trendyol, Hepsibura
 * Alt menüde bulunan **History** sekmesinden daha önce yaptığınız tüm analizlerin raporlarına tek tıkla yeniden ulaşabilirsiniz.
 * Uygulamayı kendi kullanım alışkanlığınıza göre **Koyu Tema (Dark Mode)** veya **Açık Tema (Light Mode)** olarak deneyimleyebilirsiniz.
 
----
-### 🖼️ Uygulama İçi Ekran Görüntüleri
-
 ### 🖼️ Uygulama İçi Ekran Görüntüleri
 
 | Ana Ekran & Görsel Yükleme | Akıllı Risk Raporu | SEO İlan Üretimi & Geçmiş |
