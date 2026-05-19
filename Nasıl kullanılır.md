@@ -29,3 +29,9 @@ Aynı ekranda yapay zeka, ürün görselinden yola çıkarak Trendyol, Hepsibura
 ---
 ### 🖼️ Uygulama İçi Ekran Görüntüleri
 
+### 🖼️ Uygulama İçi Ekran Görüntüleri
+
+| Ana Ekran & Görsel Yükleme | Akıllı Risk Raporu | SEO İlan Üretimi & Geçmiş |
+|---|---|---|
+| <img src="[Senin_1._Foto_Linkin](https://github.com/user-attachments/assets/8b748149-c375-41c8-939a-83ea87c28d97)" width="280"> | <img src="Senin_2._Foto_Linkin" width="280"> | <img src="Senin_3._Foto_Linkin" width="280"> |
+
