@@ -1,4 +1,3 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19 25 16" src="https://github.com/user-attachments/assets/508ebe01-e802-4c36-9d2d-37066a215b6a" />
 # 📱 PackWise AI - Nasıl Kullanılır? (User Guide)
 
 PackWise AI'ı kullanarak e-ticaret ürünlerinizin risk analizini yapmak ve saniyeler içinde akıllı ilanlar oluşturmak için aşağıdaki adımları takip edebilirsiniz.
@@ -29,7 +28,4 @@ Aynı ekranda yapay zeka, ürün görselinden yola çıkarak Trendyol, Hepsibura
 
 ---
 ### 🖼️ Uygulama İçi Ekran Görüntüleri
-
-![Uploading Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19.25.16.png…]()
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 19 29 44" src="https://github.com/user-attachments/assets/287e8098-0039-4464-96d2-482015a44d1d" />
 
