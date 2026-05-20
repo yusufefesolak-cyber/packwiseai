@@ -29,7 +29,11 @@ Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Sto
 
 Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Store'da yerini aldı. Uygulamayı aşağıdaki rozete tıklayarak doğrudan App Store üzerinden indirip canlı ortamda deneyimleyebilirsiniz:
 
-[![App Store'dan İndirin](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/tr-tr?size=250x83)](https://apps.applemediaservices.com/tr/app/packwiseai/id6770215723?l=tr)
+## 🚀 Uygulama App Store'da Yayında!
+
+Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Store'da yerini aldı. Uygulamayı aşağıdaki rozete tıklayarak doğrudan App Store üzerinden indirip canlı ortamda deneyimleyebilirsiniz:
+
+[![App Store'dan İndirin](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/tr-tr?size=250x83)](https://apps.apple.com/tr/app/packwiseai/id6770215723)
 
 ---
 
