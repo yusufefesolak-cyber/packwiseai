@@ -22,13 +22,6 @@ Projeyi derleyip test edebilmeniz için `GeminiService.swift` ve `Info.plist` do
 
 > 💡 **Önemli Not:** Eğer bot taramalarından dolayı demo API anahtarı kotaya takılırsa, lütfen kendi Gemini API anahtarınızı `GeminiService.swift` içerisindeki ilgili alana tanımlayınız.
 
-## 🚀 Uygulama  App Store'da Yayında!
-Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Store'da yerini aldı. Uygulamayı hemen indirip canlı ortamda test edebilirsiniz:
-
-## 🚀 Uygulama App Store'da Yayında!
-
-Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Store'da yerini aldı. Uygulamayı aşağıdaki rozete tıklayarak doğrudan App Store üzerinden indirip canlı ortamda deneyimleyebilirsiniz:
-
 ## 🚀 Uygulama App Store'da Yayında!
 
 Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Store'da yerini aldı. Uygulamayı aşağıdaki rozete tıklayarak doğrudan App Store üzerinden indirip canlı ortamda deneyimleyebilirsiniz:
