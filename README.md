@@ -22,8 +22,16 @@ Projeyi derleyip test edebilmeniz için `GeminiService.swift` ve `Info.plist` do
 
 > 💡 **Önemli Not:** Eğer bot taramalarından dolayı demo API anahtarı kotaya takılırsa, lütfen kendi Gemini API anahtarınızı `GeminiService.swift` içerisindeki ilgili alana tanımlayınız.
 
-## 🚀 Canlıya Alınma Durumu
-PackWise AI, MVP aşamasını başarıyla geçerek Apple App Store standartlarında production ortamına hazır hale getirilmiştir. 17 Mayıs itibarıyla mağazaya iletilmiş olup, şu anda App Store'da **"Waiting for Review" (İnceleme Bekliyor)** aşamasındadır. Uygulamanın tüm canlı akışı demo videosunda detaylıca sunulmuştur. Uygulama canlıya alındıktan sonra canlı ortam detayları ve mağaza indirme linki projenin GitHub README kısmına eklenecektir.
+## 🚀 Uygulama  App Store'da Yayında!
+Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Store'da yerini aldı. Uygulamayı hemen indirip canlı ortamda test edebilirsiniz:
+
+## 🚀 Uygulama App Store'da Yayında!
+
+Apple Review süreci başarıyla tamamlandı ve PackWise AI resmi olarak App Store'da yerini aldı. Uygulamayı aşağıdaki rozete tıklayarak doğrudan App Store üzerinden indirip canlı ortamda deneyimleyebilirsiniz:
+
+[![App Store'dan İndirin](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/tr-tr?size=250x83)](https://apps.applemediaservices.com/tr/app/packwiseai/id6770215723?l=tr)
+
+---
 
 # 📱 PackWise AI - Nasıl Kullanılır? (User Guide)
 
